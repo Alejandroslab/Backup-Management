@@ -1,0 +1,8 @@
+When you physically add a drive you have to go into the management GUI to tell the NAS what to do with the drive.
+You decide not he NAS.
+
+
+If you already added it to the existing raid then there is nothing you can do.
+You cannot shrink a raid.
+
+The only why to get the drive back is to rebuild the NAS from scratch.
