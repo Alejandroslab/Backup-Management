@@ -9,6 +9,10 @@ REMEMBER: YOU CAN NEVER REMOVE DISKS FROM A RAID!
 if you have 4 drives and want 3 drives inside the RAID array you will have
 to rebuild the NAS from scratch
 
+To rebuild from scratch:
+turn off the NAS, eject the disks, turn on then follow setup and plug the disks
+
+
 
 ---
 
