@@ -15,3 +15,17 @@ to rebuild the NAS from scratch
 WARNING: Before making any changes with RAID (even before adding new volumes as extension
 or adding a new storage pool)
 always remember to do a FULL BACKUP!
+------
+ANOTHER things
+
+if you want to use different size drives rememeber that RAID will use the smallest
+therefore if you have 3 drives like:
+
+2tb   2tb   4tb
+
+then you will know that RAID will user
+
+2tb   2tb   2tb
+
+therefore 2tb will be 'lost', not in the sense that you have lost data but in
+the sense that wou will not be able to use the extra space.
