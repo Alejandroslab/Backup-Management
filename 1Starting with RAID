@@ -1,0 +1,17 @@
+First! Rememeber that there is not possibility to 'undo' a RAID array.
+Once you setup one you stick with that.
+
+You can only expand the RAID but not delete volumes or disks from it and shrink it.
+(anyways you can eject broken disk inside RAID and then make the NAS rebuild the RAID)
+
+REMEMBER: YOU CAN NEVER REMOVE DISKS FROM A RAID!
+
+if you have 4 drives and want 3 drives inside the RAID array you will have
+to rebuild the NAS from scratch
+
+
+---
+
+WARNING: Before making any changes with RAID (even before adding new volumes as extension
+or adding a new storage pool)
+always remember to do a FULL BACKUP!
