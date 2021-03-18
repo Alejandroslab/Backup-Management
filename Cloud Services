@@ -1,0 +1,21 @@
+Before uploading your stuff to a cloud service (any of them)
+encrypt your data!
+
+in mac just open Disk Utility
+then click on File-> New Image ->Image from folder
+
+select your folder then select encryption SHA256-bit
+input a strong password
+select the folder in which to save your encrypted folder
+
+done!
+
+remember that the folder will be zipped in an encrypted container
+this means that you cannot access directly to your files
+but you have to unencrypt the container and then extract the
+folder with your files like any .zip file
+
+alternatively (also in Windows) you can use
+Veracrypt
+
+(but sometimes it is much slower)
