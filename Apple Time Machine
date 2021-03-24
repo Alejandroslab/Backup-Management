@@ -1,0 +1,9 @@
+Sometimes Time Machine could cry because
+cannot find the hard drive (if it is on a NAS)
+
+in order to make it findable just open
+finder and connect to the folder
+dedicated for time machine
+
+Then the folder will return available in Time Machine
+and you will be able to perform the backup.
