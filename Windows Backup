@@ -1,0 +1,19 @@
+If you use windows backup and you want to create the backup (the old Windows 7 system) onto a network folder
+
+It may happen that Control Panel will give error
+
+To make it work try to change the case of the serverhostname when you type it in the bar:
+
+like:
+
+\\mylocalserver
+
+to 
+
+\\MYLOCALSERVER
+
+or try to use the ip 
+
+or again try to use a different folder
+
+Then it will work (eventually)
